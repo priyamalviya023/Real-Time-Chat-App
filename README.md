@@ -18,5 +18,5 @@ Message: It stores the data of text messages like message timing, sender id, roo
 Room: It stores the room id and room name
 User: It stores the user info like name, email, password hash and salt, etc.
 
-## How did you sent the data to frontend:
+## How did we sent the data to frontend:
 Data is sent in Json format which is then handled using react.js at frontend.
